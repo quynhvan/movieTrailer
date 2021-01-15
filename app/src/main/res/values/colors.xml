@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="background_viewpager">#1C1C1C</color>
+    <color name="background_movie_detail">#333333</color>
+    <color name="icon_viewpager">#82807A</color>
+    <color name="color_selected_bottom_nav">#DC933F</color>
+    <color name="color_text_movie_imformation">#BAB8B3</color>
+    <color name="toolbar">#615229</color>
+    <color name="white">#FFFFFF</color>
+    <color name="textColor">#C7C7C8</color>
+    <color name="ic_favorite">#C9C9CA</color>
+    <color name="black_trans">#33000000</color>
+</resources>

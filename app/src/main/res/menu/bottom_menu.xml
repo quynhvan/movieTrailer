@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/toprate"
+        android:icon="@drawable/ic_star"
+        android:title="Top Rate"
+        />
+    <item
+        android:id="@+id/popular"
+        android:icon="@drawable/ic_top_rate"
+        android:title="Popular"
+  />
+    <item
+        android:id="@+id/upcoming"
+        android:icon="@drawable/ic_up_coming"
+        android:title="Up Coming"
+       />
+    <item
+        android:id="@+id/nowplaying"
+        android:icon="@drawable/ic_now_playing"
+        android:title="Now playing"
+      />
+</menu>

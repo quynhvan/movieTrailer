@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MovieTraining</string>
+    <string name="up_comming">Up comming</string>
+    <string name="top_rate">Top Rate</string>
+    <string name="popular">Popular</string>
+    <string name="now_playing">Now Playing</string>
+</resources>
